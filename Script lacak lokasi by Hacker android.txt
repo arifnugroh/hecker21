@@ -1,0 +1,20 @@
+Script lacak lokasi orang by hacker Android
+
+$ pkg update
+$ pkg upgrade
+$ pkg install git
+$ pkg install php
+$ pkg install curl
+$ pkg install openssh
+$ pkg install python python2 -y
+$ clear 
+$ git clone https://github.com/thelinuxchoice/locator
+$ git clone https://github.com/thelinuxchoice/userrecon
+$ clear
+$ ls 
+$ cd locator
+$ bash locator.sh
+
+pilih 1 , lalu masukan port 4477 atau 6622 , kemudian bagikan link ke target dan suruh target meng-klik link melalui chrome, lalu buka termux kembali, dan liat ada link maps, tinggal searching link mapnya di google
+
+
